@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CABI App</string>
+    <string name="idnation">ID Nation: </string>
+    <string name="nation">Nation: </string>
+    <string name="idyear">ID Year: </string>
+    <string name="year">Year: </string>
+    <string name="population">Population: </string>
+    <string name="slugnation">Slug Nation: </string>
+    <string name="demographics">Nation Demographics </string>
+
+</resources>
